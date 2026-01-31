@@ -1,2 +1,2 @@
 # Evolutionary-Computation-Project
-WID3012 EVOLUTIONARY COMPUTATION
+This project simulates the evolution of an AI student batch using a Genetic Algorithm (GA) framework.
